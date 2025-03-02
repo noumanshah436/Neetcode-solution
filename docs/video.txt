@@ -3,4 +3,219 @@
 
 https://www.youtube.com/watch?v=T0u5nwSA0w0
 
-24:00
+41:10
+
+**************************************
+
+00:00:00 Into
+1 Contains Duplicate, 
+2 Valid Anagram
+3 Two Sum, 
+4 Group Anagrams
+5 Top K Frequent Elements, 6 Product of Array Except Self
+7 Valid Sudoku, 8 Encode and Decode Strings
+9 Longest Consecutive Sequence, 10 Valid Palindrome
+11 Two Sum II Input Array Is Sorted, 12 3Sum
+13 Container With Most Water, 14 Trapping Rain Water
+15 Best Time to Buy And Sell Stock, 16 Longest Substring w/out Repeating Characters
+17 Longest Repeating Character Replacement, 18 Permutation In String
+19 Minimum Window Substring, 20 Sliding Window Maximum
+21 Valid Parentheses, 22 Min Stack
+23 Evaluate Reverse Polish Notation, 24 Generate Parentheses
+25 Daily Temperatures, 26 Car Fleet
+27 Largest Rectangle In Histogram, 28 Binary Search
+29 Search a 2D Matrix, 30 Koko Eating Bananas
+31 Find Minimum In Rotated Sorted Array, 32 Search In Rotated Sorted Array
+33 Time Based Key Value Store, 34 Median of Two Sorted Arrays
+35 Reverse Linked List, 36 Merge Two Sorted Lists
+37 Reorder List, 38 Remove Nth Node From End of List
+39 Copy List With Random Pointer, 40 Add Two Numbers
+41 Linked List Cycle, 42 Find The Duplicate Number
+43 LRU Cache, 44 Merge K Sorted Lists
+45 Reverse Nodes In K Group, 46 Invert Binary Tree
+47 Maximum Depth of Binary Tree, 48 Diameter of Binary Tree
+49 Balanced Binary Tree, 50 Same Tree
+51 Subtree of Another Tree, 52 Lowest Common Ancestor of a Binary Search Tree
+53 Binary Tree Level Order Traversal, 54 Binary Tree Right Side View
+55 Count Good Nodes In Binary Tree, 56 Validate Binary Search Tree
+57 Kth Smallest Element In a Bst, 58 Construct Binary Tree
+59 Binary Tree Maximum Path Sum, 60 Serialize And Deserialize Binary Tree
+61 Implement Trie Prefix Tree, 62 Design Add And Search Words
+63 Word Search II, 64 Kth Largest Element In a Stream
+65 Last Stone Weight, 66 K Closest Points to Origin
+67 Kth Largest Element In Array, 68 Task Scheduler
+69 Design Twitter, 70 Find Median From Data Stream
+71 Subsets, 72 Combination Sum
+73 Permutations, 74 Subsets II
+75 Combination Sum II, 76 Word Search
+77 Palindrome Partitioning, 78 Letter Combinations of a Phone
+79 N Queens, 80 Number of Islands
+81 Clone Graph, 82 Max Area of Island
+83 Pacific Atlantic Water Flow, 84 Surrounded Regions
+85 Rotting 🍊, 86 Walls And Gates
+87 Course Schedule, 88 Course Schedule II
+89 Redundant Connection, 90 Number of Connected Components
+91 Graph Valid Tree, 92 Word Ladder
+93 Reconstruct Itinerary, 94 Min Cost to Connect All Points
+95 Network Delay Time, 96 🏊
+97 Alien Dictionary, 98 Cheapest Flights Within K Stops
+99 Climbing Stairs, 100 Min Cost Climbing Stairs
+101 House Robber, 102 House Robber II
+103 Longest Palindromic Substring, 104 Palindromic Substrings
+105 Decode Ways, 106 Coin Change
+107 Maximum Product Subarray, 108 Word Break
+109 Longest Increasing Subsequence, 110 Partition Equal Subset Sum
+111 Unique Paths, 112 Longest Common Subsequence
+113 Best Time to Buy And Sell Stock, 114 Coin Change II
+115 Target Sum, 116 Interleaving String
+117 Longest Increasing Path In a Matrix, 118 Distinct Subsequences
+119 Edit Distance, 120 Burst Balloons
+121 Regular Expression Matching, 122 Maximum Subarray
+123 Jump Game, 124 Jump Game II
+125 ⛽, 126 Hand of Straights
+127 Merge Triplets to Form Target Triplet, 128 Partition Labels
+129 Valid Parenthesis String, 130 Insert Interval
+131 Merge Intervals, 132 Non Overlapping Intervals
+133 Meeting Rooms, 134 Meeting Rooms II
+135 Minimum Interval to Include Each Query, 136 Rotate Image
+137 Spiral Matrix, 138 Set Matrix Zeroes
+139 Happy Number, 140 Plus One
+141 Pow(x, n), 142 Multiply Strings
+143 Detect Squares, 144 Single Number
+145 Number of 1 Bits, 146 Counting Bits
+147 Reverse Bits, 148 Missing Number
+149 Sum of Two Integers, 150 Reverse Integer
+
+
+**************************************
+
+
+1. Contains Duplicate (2:11)  
+2. Valid Anagram (9:26)  
+3. Two Sum (18:32)  
+4. Group Anagrams (28:21)  
+5. Top K Frequent Elements (41:10)  
+6. Product of Array Except Self (51:44)  
+7. Valid Sudoku (1:08:36)  
+8. Encode and Decode Strings (1:27:12)  
+9. Longest Consecutive Sequence (1:35:32)  
+10. Valid Palindrome (1:59:05)  
+11. Two Sum II - Input Array Is Sorted (2:08:18)  
+12. 3 Sum (2:20:52)  
+13. Container With Most Water (2:41:03)  
+14. Trapping Rain Water (2:55:39)  
+15. Best Time To Buy And Sell Stocks (3:22:30)  
+16. Longest Substring Without Repeating Characters (2:32:00)  
+17. Longest Repeating Character Replacement (3:43:06)  
+18. Permutation in String (4:04:16)  
+19. Minimum Window Substring (4:17:13)  
+20. Sliding Window Maximum (4:40:19)  
+21. Valid Parentheses (4:59:45)  
+22. Min Stack (5:11:39)  
+23. Evaluate Reverse Polish Notation (5:20:43)  
+24. Generate Parentheses (5:30:10)  
+25. Daily Temperatures (5:46:03)  
+26. Car Fleet (6:00:00)  
+27. Largest Rectangle in Histogram (6:19:34)  
+28. Binary Search (6:37:28)  
+29. Search a 2D Matrix (6:46:33)  
+30. Koko Eating Bananas (6:55:46)  
+31. Find Minimum in Rotated Sorted Array (7:11:24)  
+32. Search in Rotated Sorted Array (7:24:11)  
+33. Time-Based Key-Value Store (7:38:01)  
+34. Median of Two Sorted Arrays (7:55:18)  
+35. Reverse Linked List (8:22:15)  
+36. Merge Two Sorted Lists (8:30:13)  
+37. Reorder List (8:41:09)  
+38. Remove Nth Node From End of List (8:56:58)  
+39. Copy List with Random Pointer (9:07:25)  
+40. Add Two Numbers (9:24:13)  
+41. Linked List Cycle (9:33:45)  
+42. Find the Duplicate Number (9:45:14)  
+43. LRU Cache (9:59:02)  
+44. Merge K Sorted Lists (10:21:54)  
+45. Reverse Nodes in k-Group (10:33:39)  
+46. Invert Binary Tree (10:50:52)  
+47. Maximum Depth of Binary Tree (10:58:06)  
+48. Diameter of Binary Tree (11:04:22)  
+49. Balanced Binary Tree (11:12:47)  
+50. Same Tree (11:21:20)  
+51. Subtree of Another Tree (11:28:42)  
+52. Lowest Common Ancestor of a Binary Search Tree (11:37:01)  
+53. Binary Tree Level Order Traversal (11:47:45)  
+54. Binary Tree Right Side View (11:59:50)  
+55. Count Good Nodes in Binary Tree (12:09:36)  
+56. Validate Binary Search Tree (12:20:27)  
+57. Kth Smallest Element in a BST (12:30:33)  
+58. Construct Binary Tree from Preorder and Inorder Traversal (12:38:03)  
+59. Binary Tree Maximum Path Sum (12:53:51)  
+60. Serialize and Deserialize Binary Tree (13:10:00)  
+61. Implement Trie (Prefix Tree) (13:20:29)  
+62. Design Add and Search Words Data Structure (13:45:42)  
+63. Word Search II (14:01:33)  
+64. Kth Largest Element in a Stream (14:18:34)  
+65. Last Stone Weight (14:30:40)  
+66. K Closest Points to Origin (14:41:27)  
+67. Kth Largest Element in an Array (14:50:51)  
+68. Task Scheduler (14:58:58)  
+69. Design Twitter (15:20:21)  
+70. Find Median From Data Stream (15:46:19)  
+71. Subsets (16:15:44)  
+72. Combination Sum (16:29:03)  
+73. Permutations (16:49:59)  
+74. Subsets (17:05:05)  
+75. Combination Sum II (17:16:06)  
+76. Word Search (17:29:27)  
+77. Palindrome Partitioning (17:44:11)  
+78. Letter Combinations of Phone Number (18:01:43)  
+79. N-Queens (18:12:48)  
+80. Number of Islands (18:35:55)  
+81. Clone Graph (18:54:55)  
+82. Max Area of Island (19:09:48)  
+83. Pacific Atlantic Water Flow (19:21:30)  
+84. Surrounded Regions (19:43:04)  
+85. Rotting Oranges (19:55:31)  
+86. Walls and Gates (20:10:23)  
+87. Course Schedule (20:24:53)  
+88. Course Schedule II (20:46:11)  
+89. Redundant Connection (21:11:24)  
+90. Number of Connected Components in an Undirected Graph (21:31:36)  
+91. Graph Valid Tree (21:42:55)  
+92. Word Ladder (22:18:17)  
+93. Reconstruct Itinerary (22:34:42)  
+94. Min Cost to Collect All Points (22:51:00)  
+95. Network Delay Time (23:14:44)  
+96. Swim in Rising Water (23:32:25)  
+97. Alien Dictionary (23:46:53)  
+98. Cheapest Flights Within K Stops (24:30:21)  
+99. Climbing Stairs (24:50:31)  
+100. Min Cost Climbing Stairs (25:00:47)  
+101. House Robber (25:11:14)  
+102. House Robber II (25:25:35)  
+103. Longest Palindrome Substring (25:40:25)  
+104. Palindrome Substrings (25:56:53)  
+105. Decode Ways (26:11:10)  
+106. Coin Change (26:36:16)  
+107. Maximum Product Subarray (27:07:23)  
+108. Word Break (27:19:49)  
+109. Longest Increasing Subsequence (27:43:08)  
+110. Partition Equal Subset Sum (28:30:33)  
+111. Unique Paths (28:46:28)  
+112. Longest Common Subsequence (28:57:39)  
+113. Best Time to Buy and Sell Stocks with Cooldown (29:14:53)  
+114. Coin Change II (29:36:21)  
+115. Target Sum (29:50:15)  
+116. Interleaving String (30:11:32)  
+117. Longest Increasing Path in a Matrix (30:33:38)  
+118. Distinct Subsequences (30:56:27)  
+119. Edit Distance (31:11:55)  
+120. Burst Balloons (31:28:38)  
+121. Regular Expression Matching (31:55:01)  
+122. Maximum Subarray (32:22:42)  
+123. Jump Game (32:32:24)  
+124. Jump Game II (32:51:30)  
+125. Gas Station (33:07:05)  
+126. Merge Triplets to Form Target Triplet (33:34:22)  
+127. Partition Labels (33:45:01)  
+128. Parenthesis String (33:55:31)  
+ 

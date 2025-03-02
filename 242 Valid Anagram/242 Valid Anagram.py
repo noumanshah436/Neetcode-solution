@@ -49,3 +49,11 @@ print(s.isAnagram("problem", "rpolbme"))
 
 #  time- > 0(n)
 #  space -> 0(1)
+
+
+# The ord() function in Python returns the Unicode code point (integer representation) of a given character.
+
+# print(ord('A'))  # Output: 65
+# print(ord('a'))  # Output: 97
+# print(ord('0'))  # Output: 48
+# print(ord('@'))  # Output: 64
